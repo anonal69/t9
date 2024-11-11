@@ -121,7 +121,7 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('pornhub.com', '_blank')}>
+        <button onClick={() => window.open('https://pornhub.com', '_blank')}>
           web
         </button>
         <button onClick={() => window.open('https://discord.gg/', '_blank')}>
